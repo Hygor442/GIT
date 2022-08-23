@@ -1,1 +1,2 @@
-O projeto vai ser desenvolvido aqui
+ o projeto vai ser feito aqui
+ 
